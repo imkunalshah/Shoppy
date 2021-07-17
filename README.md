@@ -47,6 +47,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kunal Shah - [@portfolio](http://bit.ly/kunal-portfolio) - [@email](kunal.jack.shah@gmail.com)
+Kunal Shah - [Portfolio](http://bit.ly/kunal-portfolio) - [Mail](mailto:kunal.jack.shah@gmail.com)
 
 Project Link: [https://github.com/imkunalshah/railwayreservation](https://github.com/imkunalshah/railwayreservation)
