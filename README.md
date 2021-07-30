@@ -49,4 +49,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kunal Shah - [Portfolio](http://bit.ly/kunal-portfolio) - [Mail](mailto:kunal.jack.shah@gmail.com)
 
-Project Link: [https://github.com/imkunalshah/railwayreservation](https://github.com/imkunalshah/railwayreservation)
+Project Link: [https://github.com/imkunalshah/Shoppy](https://github.com/imkunalshah/Shoppy)
